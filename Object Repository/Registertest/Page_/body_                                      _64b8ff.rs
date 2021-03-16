@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_                                      _64b8ff</name>
+   <tag></tag>
+   <elementGuidId>56a5f108-5641-44e3-ba88-034fb387e4d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>bgcolor</name>
+      <type>Main</type>
+      <value>white</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+    
+    
+    
+    
+    ระบบลงทะเบียนศิษย์เก่า
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+
+
+          
+                  
+     ระบบลงทะเบียนสมาชิกศิษย์เก่ามหาวิทยาลัยราชภัฎนครปฐม
+  
+  
+   .g {
+  background-color: gray;
+  font-size: 30px;
+}
+.dropbtn {
+  background-color: green;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: green;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+
+
+  
+    
+  
+
+  
+    
+      ....................................
+      
+      
+        หน้าเเรก (current)
+      
+      ........................
+      
+     
+      
+        
+      
+      .....................................
+      
+     
+      ...........................
+      
+      
+      ค้นหารายชื่อศิษย์เก่า
+      
+    
+    
+                            
+                    
+                        
+                            ยินดีต้อนรับ คุณ 614259055@webmail.npru.ac.th  
+                        
+                        
+                            ข้อมูลส่วนตัว
+                            
+                            ออกจากระบบ
+                        
+                    
+                
+                    
+  
+
+  
+    
+        
+            
+                
+ ค้นหารายชื่อศิษย์เก่า  
+
+  
+                        
+                         
+                            
+                            ค้นหา
+                        
+                     
+                                         
+                     
+  
+		
+		
+			รหัสนักศึกษา
+            
+            
+				หมู่เรียน
+			
+			
+				ชื่อ-นามสกุล
+			
+            
+				ปีการศึกษาที่เข้า
+			
+			
+			จังหวัด
+			
+
+			
+      
+	  รายละเอียด
+			
+		
+                                 
+                
+                
+
+                
+    
+    614259055
+    61/47
+
+    Test  Test
+    2562
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259055
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2561
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259055
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2561
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259028
+    61/47
+
+    สหัสวุฒิ  มูลสิงห์
+    2562
+
+				ราชบุรี
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    6142590255
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2563
+
+				ยะลา
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259099
+    61/100
+
+    ประยุทธ์  จันโอชา
+    2544
+
+				เชียงใหม่
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259098
+    61/47
+
+    ประวิทย์  วงษ์สุวรรณ
+    2559
+
+				กระบี่
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    6142590255
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2544
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259055
+    61/47
+
+    สรวิชญ์   เอกณรงค์พันธ์
+    2560
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259055
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2544
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259055
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2561
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259055
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2561
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                         
+                     
+    
+    614259055
+    61/47
+
+    สรวิชญ์  เอกณรงค์พันธ์
+    2544
+
+				นครปฐม
+
+        
+                                            ดูรายละเอียด
+                                                            
+
+                                  
+        
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+        // $(document).ready(function() {
+        //     $(&quot;#btnSearch&quot;).click(function() {
+        //         $(&quot;#list-default&quot;).hide();
+        //     });
+        // });
+
+        // $(function() {
+        //     $(&quot;#btnSearch&quot;).click(function() {
+        //         let u_std = $(&quot;#u_std&quot;).val();
+        //         $.ajax({
+        //             url: &quot;index.php/Alumni/search&quot;,
+        //             type: &quot;post&quot;,
+        //             data: {
+        //                 u_std: u_std
+        //             },
+        //             beforeSend: function() {
+        //                 $(&quot;.loading&quot;).show();
+        //             },
+        //             complete: function() {
+        //                 $(&quot;.loading&quot;).hide();
+        //             },
+        //             success: function(response) {
+        //                 // document.write(response)
+        //                 // $(&quot;#list-data&quot;).html(response);
+        //                 var len = response.length;
+        //                 $('#suname,#sname,#semail').text('');
+        //                 if (len > 0) {
+        //                     // Read values
+        //                     var uname = response[0].u_std;
+        //                     var name = response[0].u_fname;
+        //                     var email = response[0].u_email;
+
+        //                     $('#suname').text(uname);
+        //                     $('#sname').text(name);
+        //                     $('#semail').text(email);
+
+        //                 }
+        //             }
+        //         });
+        //     });
+        //     $(&quot;#searchform&quot;).on(&quot;keyup keypress&quot;, function(e) {
+        //         var code = e.keycode || e.which;
+        //         if (code == 13) {
+        //             $(&quot;#btnSearch&quot;).click();
+        //             return false;
+        //         }
+        //     });
+        // });
+        // Tooltips Initialization
+        $(function() {
+            $('[data-toggle=&quot;tooltip&quot;]').tooltip()
+        })
+    
+
+
+
+/html[1]/body[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+   </webElementXpaths>
+</WebElementEntity>
